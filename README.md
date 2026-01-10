@@ -13,3 +13,7 @@ A simple Excel-based project analyzing employee salaries across multiple months(
 
 ## File
 - "employee-salary-analysis.xlsx"
+  
+## Preview
+
+![Employee Salary Analysis](IMG-20260110-WA0014.jpg)
