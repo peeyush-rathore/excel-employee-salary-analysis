@@ -12,7 +12,7 @@ A simple Excel-based project analyzing employee salaries across multiple months(
 - Basic formulas (SUM, AVERAGE)
 
 ## File
-- "employee-salary-analysis.xlsx"
+'employee-salary-analysis.xlsx'
   
 ## Preview
 
