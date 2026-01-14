@@ -17,4 +17,5 @@ A simple Excel-based project analyzing employee salaries across multiple months(
 ## Preview
 
 ![Employee Salary Analysis](IMG-20260110-WA0014.jpg)
-![Employee Performance Chart](Employee-performance-chart.jpgp)
+
+![Employee Performance Chart](Employee-performance-chart.jpg)
